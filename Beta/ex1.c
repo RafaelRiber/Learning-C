@@ -3,7 +3,7 @@
 int main(int argc, char *argv[])
 {
     puts("Hello world.");
-    puts("I love Bacon !");
+    puts("I love bacon !");
 
   return 0;
 }
